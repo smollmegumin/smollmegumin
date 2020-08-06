@@ -2,7 +2,7 @@
 
   <img src="./output-onlinejpgtools.jpg" height="auto" width="200" style="border-radius:50%; margin:auto;">
 
-## I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
+### I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
         
 Current status:
 
