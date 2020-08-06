@@ -1,17 +1,14 @@
-### Hi there 👋
+# Hi, I'm Eduardo 👋 🎈
 
+  <a href="url"><img src="output-onlinejpgtools.jpg" height="auto" width="200" style="border-radius:50%; margin:auto;"></a>
 
-Here are some ideas to get you started:
+## I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
+        
+Current status:
 
 - 🔭 I’m currently working on ... My Ecommerce
 - 🌱 I’m currently learning ... Python
-
 - 📫 How to reach me: ... https://eduaravila.com/
 
 
 <!-- 😊 -->
-
-<pre>
-<iframe src="https://open.spotify.com/embed/track/3td69vL9Py7Ai9wfXYnvji" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
-</iframe>
-</pre>
