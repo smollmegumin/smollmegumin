@@ -5,14 +5,13 @@
 
 I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
         
-Current status:
+## Current status:
 
 - 🔭 I’m currently working on ... My Ecommerce
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me: ... https://eduaravila.com/
+- I'm also a teemo main 
+<img src="https://media.giphy.com/media/yFITIolMdd25q/giphy.gif" height="auto" width="100"/>
 
-I'm also a teemo main
-
-![Teemo-main](https://media.giphy.com/media/yFITIolMdd25q/giphy.gif)
 
 <!-- 😊 -->
