@@ -2,7 +2,7 @@
 
   <p align="center"><img src="https://raw.githubusercontent.com/YOURMATADOR/YOURMATADOR/master/output-onlinejpgtools.jpg" height="auto" width="200" style="border-radius:50%; margin:auto;"></p>
 
-### I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
+I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
         
 Current status:
 
