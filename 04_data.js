@@ -46,6 +46,21 @@ let list = {
   },
 };
 
+let arr_challenge = ["x", "y", "z", "a.b.c", "c.d", "b.c"];
+
+let obj_challenge = {
+  x: "x",
+  y: "y",
+  z: "z",
+  a: {
+    b: {
+      c: {
+        d: "d",
+      },
+    },
+  },
+};
+
 //? Builds up a list structure like the one shown  above
 const array_to_list = (arr = []) => {
   let obj_list = null;
@@ -69,8 +84,10 @@ const ntg = (list, index) => {
   if (index == 0) {
     return list.value;
   }
-  return ntg(list.rest, index-1);
+  return ntg(list.rest, index - 1);
 };
+
+const prepend = (current, newobj) => ({ ...current, rest: { ...newobj } });
 
 console.log(array_to_list([1, 2, 3]));
 console.log(list_to_arr(list));
