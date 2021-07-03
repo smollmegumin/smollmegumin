@@ -1,13 +1,13 @@
-Welcome my name is 👉 toilet -kf script Eduardo
-```
+**Welcome my name is**
+<pre><b>
  ___
 / (_)   |                        |
 \__   __|          __,   ,_    __|   __
 /    /  |  |   |  /  |  /  |  /  |  /  \_
 \___/\_/|_/ \_/|_/\_/|_/   |_/\_/|_/\__/
-```
+</b></pre>
 
-# About me...
+## About me...
 I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevOps, (I'm open to learn new things).I'm from / grow in Mexico, also i'm Computer science engineer graduated from the UDG college.
         
 
@@ -15,7 +15,7 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 <!-- 😊 -->
 
 
-## FF...
+## For fun...
 
 - 🔭 I’m currently working on ... My Ecommerce
 - 🌱 I’m currently learning ... Python
