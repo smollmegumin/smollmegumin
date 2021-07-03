@@ -20,9 +20,6 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 - 🔭 I’m currently working on ... My Ecommerce
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me: ... https://eduaravila.com/
-- I'm also a Teemo main <img src="https://media.giphy.com/media/yFITIolMdd25q/giphy.gif" height="auto" width="150"/>
-
-
 
 ## Stats...
 
