@@ -33,7 +33,7 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 
 | trophies... |
 | --- | 
-|[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=gruvbox&column=7)](https://eduaravila.com/)|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)|
 
 | trophies... |
 | --- | 
