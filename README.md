@@ -15,18 +15,35 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 <!-- 😊 -->
 
 
-## For fun...
+### For fun...
 
 - 🔭 I’m currently working on ... My Ecommerce
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me: ... https://eduaravila.com/
 
-## Stats...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=gruvbox)](https://github.com/YOURMATADOR/github-profile-trophy)
+### Stats...
 
-![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://github.com/YOURMATADOR/github-readme-stats)
+| | |
+| --- | --- |
+|![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt&layout=compact) | 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/) |
 
-[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://github.com/YOURMATADOR/github-readme-activity-graph)
+
+| trophies... |
+| --- | 
+|[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=gruvbox&column=7)](https://eduaravila.com/)|
+
+| trophies... |
+| --- | 
+|[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/)|
+
+
+```javascript
+const playhard = ()=> workhard()
+const workhard = ()=> playhard()
+```
+
+
+
