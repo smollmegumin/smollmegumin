@@ -24,20 +24,22 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 
 ### Stats...
 
+![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt&layout=compact) 
 
-| | |
-| --- | --- |
-|![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt&layout=compact) | 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/) |
+--- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/) 
+
+--- 
 
 
-| trophies... |
-| --- | 
-|[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)|
 
-| trophies... |
-| --- | 
-|[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/)|
+| Trophies |
+| --- |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/) |
+
+| Contributions | 
+| --- |
+| [![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/) |
 
 
 ```javascript
