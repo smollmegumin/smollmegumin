@@ -19,8 +19,8 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 
 - Learning Golang
 - Learning Solidity
-- Cool stuff here: huevosrevueltos.com.mx
-- 📫 How to reach me: ... https://eduaravila.com/
+- Cool stuff here: [huevosrevueltos](https://huevosrevueltos.com.mx/)
+- More info here: [Web](https://eduaravila.com/) 
 
 
 ### Stats...
