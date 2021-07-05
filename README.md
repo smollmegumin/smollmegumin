@@ -17,8 +17,9 @@ I am a JavaScript 'specialist, Full-stack developer and have knowlage about DevO
 
 ### For fun...
 
-- 🔭 I’m currently working on ... My Ecommerce
-- 🌱 I’m currently learning ... Python
+- Learning Golang
+- Learning Solidity
+- Cool stuff here: huevosrevueltos.com.mx
 - 📫 How to reach me: ... https://eduaravila.com/
 
 
