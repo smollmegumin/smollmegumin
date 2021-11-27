@@ -37,26 +37,30 @@ check out my
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
-
-![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/)
 
 | Trophies                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- |
 | [![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/) |
 
-| Contributions                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/) |
+<details>
+<summary><b>Stats 📈</b></summary>
 
-```javascript
-const playhard = () => workhard();
-const workhard = () => playhard();
-```
+![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
+
+</details>
+
+<details>
+<summary><b>Contributions 💪</b></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/)
+
+</details>
+
+<details>
+<summary><b>Top Langs ⌨️</b></summary>
+
+[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/)
+
+</details>
