@@ -34,12 +34,6 @@ check out my
 </details> -->
 
 
-<br>
-<br>
-<br>
-
----
-
 | Trophies                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- |
 | [![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/) |
