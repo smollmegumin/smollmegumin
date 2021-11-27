@@ -34,9 +34,11 @@ check out my
 </details> -->
 
 
-| Trophies                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| [![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/) |
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)
+
+</div>
 
 <details>
 <summary><b>Stats 📈</b></summary>
