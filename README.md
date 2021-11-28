@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-i am a js, python grinder / dev / engineer, currently learning stuff related with web3
+software engineer, highly optimistic about the decentralized internet, currently learning stuff related with web3.
 </p>
 
 <p align="center">
