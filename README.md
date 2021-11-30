@@ -50,13 +50,14 @@ check out my
 <details>
 <summary><b>Contributions 💪</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/)
+[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/)
 
 </details>
 
 <details>
 <summary><b>Top Langs ⌨️</b></summary>
 
-[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/)
+
 
 </details>
