@@ -4,7 +4,7 @@ software engineer, highly optimistic about the decentralized internet, currently
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/EJaJ5C2.png"  width="460px">
+<img src="https://i.imgur.com/EJaJ5C2.png"  width="360px">
 </p>
 
 <p align="center">
