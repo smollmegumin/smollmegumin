@@ -34,12 +34,18 @@ check out my
 </details> -->
 
 
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)
 
 </div>
 
+<details>
+<summary> <b> 2022 goal </b> </summary>
+</details>
+Want to build a PC / mob game using <a href="https://godotengine.org/">Godot</a>. Using some web3 on it, currently not sure were probably, skins, wallet or something like that. 
+Learn Solidity.
 <details>
 <summary><b>Stats 📈</b></summary>
 
