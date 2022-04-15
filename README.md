@@ -37,7 +37,7 @@ check out my
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=smollmegumin&theme=oldie&column=7)](https://eduaravila.com/)
 
 </div>
 
@@ -49,21 +49,21 @@ Learn Solidity.
 <details>
 <summary><b>Stats 📈</b></summary>
 
-![YOURMATADOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURMATADOR&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
+![smollmegumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smollmegumin&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
 
 </details>
 
 <details>
 <summary><b>Contributions 💪</b></summary>
 
-[![YOURMATADOR's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=YOURMATADOR&theme=rogue)](https://eduaravila.com/)
+[![smollmegumin's github activity graph](https://githubstatssmollmegumin.herokuapp.com/graph?username=smollmegumin&theme=rogue)](https://eduaravila.com/)
 
 </details>
 
 <details>
 <summary><b>Top Langs ⌨️</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURMATADOR&langs_count=8)](https://eduaravila.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smollmegumin&langs_count=8)](https://eduaravila.com/)
 
 
 </details>
