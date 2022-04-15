@@ -56,7 +56,7 @@ Learn Solidity.
 <details>
 <summary><b>Contributions 💪</b></summary>
 
-[![smollmegumin's github activity graph](https://githubstatssmollmegumin.herokuapp.com/graph?username=smollmegumin&theme=rogue)](https://eduaravila.com/)
+[![smollmegumin's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=smollmegumin&theme=rogue)](https://eduaravila.com/)
 
 </details>
 
