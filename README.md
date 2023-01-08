@@ -41,22 +41,33 @@ check out my
 
 </div>
 
+
+<details>
+<summary> <b> 2023 goal </b> </summary>
+
+- TRPC
+- Shopify
+- Cloudflare
+- hit 300 LC solved probles
+- AI TTS
+- postgres
+- get a decent job with decent human beings, making building something useful for humanity
+
+</details>
+
+
 <details>
 <summary> <b> 2022 goal </b> </summary>
-</details>
 Want to build a PC / mob game using <a href="https://godotengine.org/">Godot</a>. Using some web3 on it, currently not sure were probably, skins, wallet or something like that. 
 Learn Solidity.
+</details>
+
 <details>
 <summary><b>Stats 📈</b></summary>
 
 ![smollmegumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smollmegumin&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
 
 </details>
-
-<details>
-<summary><b>Contributions 💪</b></summary>
-
-[![smollmegumin's github activity graph](https://githubstatsyourmatador.herokuapp.com/graph?username=smollmegumin&theme=rogue)](https://eduaravila.com/)
 
 </details>
 
