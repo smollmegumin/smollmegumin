@@ -1,7 +1,7 @@
 <samp>
-<p align="center">
-  <h1>👋 Welcome, I'm Eduardo. </h1>
-</p>
+
+  <h1 align="center">👋 Welcome, I'm Eduardo. </h1>
+
 
 <p align="center">
 <img src="https://i.imgur.com/EJaJ5C2.png"  width="360px">
