@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-software engineer, highly optimistic about the decentralized internet, currently learning stuff related with web3.
+👋 Welcome, I'm Eduardo.
 </p>
 
 <p align="center">
