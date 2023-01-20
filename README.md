@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-👋 Welcome, I'm Eduardo.
+# 👋 Welcome, I'm Eduardo.
 </p>
 
 <p align="center">
