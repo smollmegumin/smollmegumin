@@ -37,7 +37,7 @@ check out my
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smollmegumin&theme=oldie&column=7)](https://eduaravila.com/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduaravila&theme=oldie&column=7)](https://eduaravila.com/)
 
 </div>
 
@@ -65,7 +65,7 @@ Learn Solidity.
 <details>
 <summary><b>Stats 📈</b></summary>
 
-![smollmegumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smollmegumin&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
+![smollmegumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduaravila&show_icons=true&border_radius=0&theme=cobalt&layout=compact)
 
 </details>
 
@@ -74,7 +74,7 @@ Learn Solidity.
 <details>
 <summary><b>Top Langs ⌨️</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smollmegumin&langs_count=8)](https://eduaravila.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduaravila&langs_count=8)](https://eduaravila.com/)
 
 
 </details>
