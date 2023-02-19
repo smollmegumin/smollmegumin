@@ -48,6 +48,7 @@ check out my
 - TRPC
 - Shopify
 - Cloudflare
+- golang tts
 - hit 300 LC solved probles
 - AI TTS
 - postgres
