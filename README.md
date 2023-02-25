@@ -15,7 +15,8 @@
 
 <p align="center">
 blog 
-<a href="https://huevosrevueltos.com.mx/">huevosrevueltos</a>
+<a href="http://tamagoyaki.tech/">tamagoyaki</a>
+~~<a href="https://huevosrevueltos.com.mx/">huevosrevueltos</a>~~
 </a>
 </p>
 
