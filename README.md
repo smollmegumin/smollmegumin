@@ -4,10 +4,6 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/EJaJ5C2.png"  width="360px">
-</p>
-
-<p align="center">
 🤙 @ me on <a href="https://twitter.com/AvilaPcy">Twitter</a>
 🤙 @ me on <a href="https://twitter.com/AvilaPcy">Twitter</a>
 🤙 @ me on <a href="https://twitter.com/AvilaPcy">Twitter</a>
