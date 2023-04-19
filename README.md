@@ -32,14 +32,6 @@ check out my
 </details> -->
 
 
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduaravila&theme=oldie&column=7)](https://eduaravila.com/)
-
-</div>
-
-
 <details>
 <summary> <b> 2023 goal </b> </summary>
 
