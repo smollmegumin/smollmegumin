@@ -4,12 +4,6 @@
 
 
 <p align="center">
-🤙 @ me on <a href="https://twitter.com/AvilaPcy">Twitter</a>
-🤙 @ me on <a href="https://twitter.com/AvilaPcy">Twitter</a>
-🤙 @ me on <a href="https://twitter.com/AvilaPcy">Twitter</a>
-</p>
-
-<p align="center">
 blog 
 <a href="http://tamagoyaki.tech/">tamagoyaki</a>
 
